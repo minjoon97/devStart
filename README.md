@@ -1,2 +1,0 @@
-# devStart
-FE Programming Start
